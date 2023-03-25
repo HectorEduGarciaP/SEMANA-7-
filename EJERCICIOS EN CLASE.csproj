@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>EJERCICIOS_EN_CLASE</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Eduardo\Documents\Tareas tercer semestre\Progra 1\Semana 7\Semana 7.cs" Link="Semana 7.cs" />
+  </ItemGroup>
+
+</Project>
